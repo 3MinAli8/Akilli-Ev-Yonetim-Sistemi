@@ -1,0 +1,6 @@
+Bu projede Akıllı Ev Sistemi yapılacak
+Proje  içeriği:
+Kapıda Yüz tanıma ile giriş Yabancı kişilere uyarı ve ev sahibine bilgi verilecek
+diğer bir aşama ise bluetoth kontorollü ışık olacak
+
+Yapan kişiler :Ali Gölbaşı,Ahmet Özek,Yusuf Görür
